@@ -33,6 +33,7 @@ plugins:
 
 minima:
   skin: dark
+  date_format: "%b %-d, %Y"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -52,3 +53,9 @@ minima:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+header_pages:
+  - about.md
+  - portifolio.md
+
+
+
