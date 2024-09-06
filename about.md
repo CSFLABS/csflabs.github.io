@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Quem Somos
+Somos um time independente de pesquisa em segurança cibernética, especializado na identificação de vulnerabilidades em diversas plataformas. Atuamos em parceria com empresas do setor de infraestrutura crítica para garantir que possíveis falhas de segurança sejam descobertas e corrigidas antes que possam ser exploradas por atores maliciosos.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Nossa Missão
+Nossa missão é fortalecer a segurança das plataformas digitais em escala global, contribuindo para a proteção de infraestruturas críticas e, por consequência, da sociedade. Através de pesquisas contínuas e profundas, trabalhamos para encontrar falhas, desenvolver correções e aumentar a resiliência das tecnologias que impactam o dia a dia de milhões de pessoas.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# O Que Fazemos
+Nossa equipe realiza testes extensivos em plataformas próprias e de terceiros, abrangendo desde sistemas internos de empresas até soluções globais amplamente utilizadas. Buscamos vulnerabilidades que poderiam comprometer a segurança digital e, ao identificá-las, colaboramos com as empresas afetadas para desenvolver correções eficazes.
 
+# Nosso Impacto
+Mais do que corrigir falhas para os nossos clientes, acreditamos que nossa pesquisa também beneficia a sociedade como um todo. Muitas das plataformas que testamos são utilizadas em larga escala, e nossa atuação proativa ajuda a garantir que elas continuem seguras, protegendo dados e serviços essenciais ao redor do mundo.
 
-[jekyll-organization]: https://github.com/jekyll
+# Nossa Visão
+Visualizamos um ambiente digital mais seguro e resiliente, onde as vulnerabilidades são eliminadas antes que possam causar danos. Por meio de inovação, ética e compromisso com a segurança, buscamos um impacto positivo tanto para as empresas com as quais trabalhamos quanto para a sociedade.
+

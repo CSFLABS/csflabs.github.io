@@ -20,17 +20,14 @@
 
 title: // CSF LABS //  
 description: >- # this means to ignore newlines until "baseurl:"
-  Trabalhos realizados pelo CSFLABS
-baseurl: "/csflabs.github.io/" # the subpath of your site, e.g. /blog
+  CSFLABS - Cibersegurança
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://csflabs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: csflabs
 github_username:  csflabs
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
-
+plugins: # nenhum definido
 minima:
   skin: dark
   date_format: "%b %-d, %Y"
@@ -54,6 +51,7 @@ minima:
 #   - vendor/gems/
 #   - vendor/ruby/
 header_pages:
+  - index.md
   - about.md
   - portifolio.md
 

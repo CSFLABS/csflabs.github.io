@@ -4,3 +4,5 @@
 
 layout: home
 ---
+![](/static/img/logo_csflabs_g.png)
+
