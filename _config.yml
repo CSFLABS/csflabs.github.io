@@ -26,8 +26,10 @@ url: "https://csflabs.github.io" # the base hostname & protocol for your site, e
 github_username:  csflabs
 
 # Build settings
-theme: jekyll-theme-dark-minimal
+#theme: minima
+remote_theme: jekyll/minima
 plugins: # nenhum definido
+  - jekyll-remote-theme 
 minima:
   skin: dark
   date_format: "%b %-d, %Y"
@@ -54,6 +56,3 @@ header_pages:
   - index.md
   - about.md
   - portifolio.md
-
-
-
