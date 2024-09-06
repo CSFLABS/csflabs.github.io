@@ -26,7 +26,7 @@ url: "https://csflabs.github.io" # the base hostname & protocol for your site, e
 github_username:  csflabs
 
 # Build settings
-theme: minima
+theme: jekyll-theme-dark-minimal
 plugins: # nenhum definido
 minima:
   skin: dark
